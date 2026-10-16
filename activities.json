@@ -1,0 +1,105 @@
+{
+ "items": [
+  {
+   "repo": "fridayclasstownhallexcursion",
+   "title": "City Dash Adventure - Town Hall and the QVB",
+   "desc": "A class activity.",
+   "emoji": "✨",
+   "date": "2026-08-27",
+   "section": "Excursions",
+   "sectionEmoji": "📸",
+   "sectionTop": false
+  },
+  {
+   "repo": "fridayclassnothingissetinstonerememberthe20",
+   "title": "Remember the twenty",
+   "desc": "A class activity.",
+   "emoji": "✨",
+   "date": "2026-09-03",
+   "section": "Nothing set in stone",
+   "sectionEmoji": "🪨",
+   "sectionTop": false
+  },
+  {
+   "repo": "fridayclassthebusescape",
+   "title": "The Last Bus",
+   "desc": "An escape room game.",
+   "emoji": "🔐",
+   "date": "2026-09-03",
+   "section": "Games and escape rooms",
+   "sectionEmoji": "🎲",
+   "sectionTop": false
+  },
+  {
+   "repo": "fridayclassmaritimeexcursion",
+   "title": "The Great Harbour Hunt",
+   "desc": "A class activity.",
+   "emoji": "✨",
+   "date": "2026-09-14",
+   "section": "Excursions",
+   "sectionEmoji": "📸",
+   "sectionTop": false
+  },
+  {
+   "repo": "fridayclasslastlapcampushunt",
+   "title": "The last lap: campus hunt",
+   "desc": "A scavenger hunt.",
+   "emoji": "🧭",
+   "date": "2026-10-15",
+   "section": "The last lap",
+   "sectionEmoji": "🏁",
+   "sectionTop": true
+  },
+  {
+   "repo": "fridayclasslastlapchloesphone",
+   "title": "Chloe's Phone",
+   "desc": "Unlock the phone.",
+   "emoji": "📱",
+   "date": "2026-10-15",
+   "section": "The last lap",
+   "sectionEmoji": "🏁",
+   "sectionTop": true
+  },
+  {
+   "repo": "fridayclasslastlapintrodeck",
+   "title": "Term 4: The last lap",
+   "desc": "The lesson introduction.",
+   "emoji": "🎬",
+   "date": "2026-10-15",
+   "section": "The last lap",
+   "sectionEmoji": "🏁",
+   "sectionTop": true
+  },
+  {
+   "repo": "fridayclasslastlapjeopardy",
+   "title": "The Last Lap Jeopardy",
+   "desc": "A team quiz game.",
+   "emoji": "🏆",
+   "date": "2026-10-15",
+   "section": "The last lap",
+   "sectionEmoji": "🏁",
+   "sectionTop": true
+  },
+  {
+   "repo": "fridayclasslastlapchallenge",
+   "title": "The last lap challenge",
+   "desc": "A class activity.",
+   "emoji": "✨",
+   "date": "2026-10-16",
+   "section": "The last lap",
+   "sectionEmoji": "🏁",
+   "sectionTop": true
+  },
+  {
+   "repo": "fridayclasslastlaprevisiondeck",
+   "title": "The last lap: revision",
+   "desc": "The lesson introduction.",
+   "emoji": "🎬",
+   "date": "2026-10-16",
+   "section": "The last lap",
+   "sectionEmoji": "🏁",
+   "sectionTop": true
+  }
+ ],
+ "updated": "2026-10-16T11:33:04+00:00"
+}
