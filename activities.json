@@ -99,7 +99,27 @@
    "section": "The last lap",
    "sectionEmoji": "🏁",
    "sectionTop": true
+  },
+  {
+   "repo": "fridayclasssculpturebythesea2026deck",
+   "title": "Excursion Plan",
+   "desc": "The lesson introduction.",
+   "emoji": "🎬",
+   "date": "2026-10-22",
+   "section": "More activities",
+   "sectionEmoji": "🌟",
+   "sectionTop": false
+  },
+  {
+   "repo": "fridayclasssculpturebythesea2026hunt",
+   "title": "Clifftop Hunt",
+   "desc": "A scavenger hunt.",
+   "emoji": "🧭",
+   "date": "2026-10-22",
+   "section": "More activities",
+   "sectionEmoji": "🌟",
+   "sectionTop": false
   }
  ],
- "updated": "2026-10-16T16:46:52+00:00"
+ "updated": "2026-10-22T22:27:48+00:00"
 }
