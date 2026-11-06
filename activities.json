@@ -149,7 +149,27 @@
    "section": "More activities",
    "sectionEmoji": "🌟",
    "sectionTop": false
+  },
+  {
+   "repo": "fridayclassaplaceofourowndoublejeopardy",
+   "title": "House Hunt Board",
+   "desc": "A team quiz game.",
+   "emoji": "🏆",
+   "date": "2026-11-05",
+   "section": "More activities",
+   "sectionEmoji": "🌟",
+   "sectionTop": false
+  },
+  {
+   "repo": "fridayclassaplaceofourownrevision",
+   "title": "Open House · Revision",
+   "desc": "Revise the expressions.",
+   "emoji": "🔁",
+   "date": "2026-11-05",
+   "section": "More activities",
+   "sectionEmoji": "🌟",
+   "sectionTop": false
   }
  ],
- "updated": "2026-11-01T22:54:33+00:00"
+ "updated": "2026-11-06T01:37:58+00:00"
 }
