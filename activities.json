@@ -169,7 +169,27 @@
    "section": "A place of our own",
    "sectionEmoji": "🏠",
    "sectionTop": true
+  },
+  {
+   "repo": "fridayclassaplaceofourownfoundphone",
+   "title": "Olga's Phone",
+   "desc": "Unlock the phone.",
+   "emoji": "📱",
+   "date": "2026-11-10",
+   "section": "A place of our own",
+   "sectionEmoji": "🏠",
+   "sectionTop": true
+  },
+  {
+   "repo": "fridayclassaplaceofourownopenhouse",
+   "title": "Open House",
+   "desc": "A class activity.",
+   "emoji": "✨",
+   "date": "2026-11-10",
+   "section": "A place of our own",
+   "sectionEmoji": "🏠",
+   "sectionTop": true
   }
  ],
- "updated": "2026-11-06T01:37:58+00:00"
+ "updated": "2026-11-10T09:04:36+00:00"
 }
