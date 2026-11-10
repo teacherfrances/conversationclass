@@ -106,8 +106,8 @@
    "desc": "The lesson introduction.",
    "emoji": "🎬",
    "date": "2026-10-22",
-   "section": "More activities",
-   "sectionEmoji": "🌟",
+   "section": "Excursions",
+   "sectionEmoji": "📸",
    "sectionTop": false
   },
   {
@@ -116,8 +116,8 @@
    "desc": "A scavenger hunt.",
    "emoji": "🧭",
    "date": "2026-10-22",
-   "section": "More activities",
-   "sectionEmoji": "🌟",
+   "section": "Excursions",
+   "sectionEmoji": "📸",
    "sectionTop": false
   },
   {
@@ -126,9 +126,9 @@
    "desc": "The lesson introduction.",
    "emoji": "🎬",
    "date": "2026-11-01",
-   "section": "More activities",
-   "sectionEmoji": "🌟",
-   "sectionTop": false
+   "section": "A place of our own",
+   "sectionEmoji": "🏠",
+   "sectionTop": true
   },
   {
    "repo": "fridayclasssculpturebythesea2026_talkback",
@@ -136,8 +136,8 @@
    "desc": "A class activity.",
    "emoji": "✨",
    "date": "2026-11-01",
-   "section": "More activities",
-   "sectionEmoji": "🌟",
+   "section": "Excursions",
+   "sectionEmoji": "📸",
    "sectionTop": false
   },
   {
@@ -146,8 +146,8 @@
    "desc": "A class activity.",
    "emoji": "✨",
    "date": "2026-11-01",
-   "section": "More activities",
-   "sectionEmoji": "🌟",
+   "section": "Excursions",
+   "sectionEmoji": "📸",
    "sectionTop": false
   },
   {
@@ -156,9 +156,9 @@
    "desc": "A team quiz game.",
    "emoji": "🏆",
    "date": "2026-11-05",
-   "section": "More activities",
-   "sectionEmoji": "🌟",
-   "sectionTop": false
+   "section": "A place of our own",
+   "sectionEmoji": "🏠",
+   "sectionTop": true
   },
   {
    "repo": "fridayclassaplaceofourownrevision",
@@ -166,9 +166,9 @@
    "desc": "Revise the expressions.",
    "emoji": "🔁",
    "date": "2026-11-05",
-   "section": "More activities",
-   "sectionEmoji": "🌟",
-   "sectionTop": false
+   "section": "A place of our own",
+   "sectionEmoji": "🏠",
+   "sectionTop": true
   }
  ],
  "updated": "2026-11-06T01:37:58+00:00"
