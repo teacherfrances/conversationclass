@@ -201,6 +201,16 @@
    "sectionTop": true
   },
   {
+   "repo": "fridayclassfirstshiftsfoundphone",
+   "title": "Sari's Phone",
+   "desc": "Unlock the phone.",
+   "emoji": "📱",
+   "date": "2026-11-13",
+   "section": "First shifts",
+   "sectionEmoji": "💼",
+   "sectionTop": true
+  },
+  {
    "repo": "fridayclassfirstshiftsrevision",
    "title": "Night Fill · Revision",
    "desc": "Revise the expressions.",
@@ -211,5 +221,5 @@
    "sectionTop": true
   }
  ],
- "updated": "2026-11-13T13:56:05+00:00"
+ "updated": "2026-11-13T23:41:31+00:00"
 }
