@@ -21,8 +21,9 @@ EXCLUDE = {
 # Keyword in the repo name -> (section title on the homepage, section emoji, put new section at top?)
 # The first keyword that matches wins. Add a line here for each new lesson.
 SECTIONS = [
+    ("firstshifts",        "First shifts",           "💼", True),
     ("lastlap",            "The last lap",           "🏁", True),
-    ("aplaceofourown",     "A place of our own",     "🏠", True),
+    ("aplaceofourown",    "A place of our own",     "🏠", True),
     ("sculpturebythesea",  "Excursions",             "📸", False),
     ("nothingsetinstone",  "Nothing set in stone",   "🪨", False),
     ("nothingissetinstone","Nothing set in stone",   "🪨", False),
