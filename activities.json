@@ -189,7 +189,27 @@
    "section": "A place of our own",
    "sectionEmoji": "🏠",
    "sectionTop": true
+  },
+  {
+   "repo": "fridayclassfirstshiftsdeck",
+   "title": "First shifts · Intro",
+   "desc": "The lesson introduction.",
+   "emoji": "🎬",
+   "date": "2026-11-13",
+   "section": "First shifts",
+   "sectionEmoji": "💼",
+   "sectionTop": true
+  },
+  {
+   "repo": "fridayclassfirstshiftsrevision",
+   "title": "Night Fill · Revision",
+   "desc": "Revise the expressions.",
+   "emoji": "🔁",
+   "date": "2026-11-13",
+   "section": "First shifts",
+   "sectionEmoji": "💼",
+   "sectionTop": true
   }
  ],
- "updated": "2026-11-10T09:04:36+00:00"
+ "updated": "2026-11-13T13:56:05+00:00"
 }
