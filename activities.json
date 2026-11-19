@@ -219,7 +219,27 @@
    "section": "First shifts",
    "sectionEmoji": "💼",
    "sectionTop": true
+  },
+  {
+   "repo": "fridayclasslavenderbayexcursion",
+   "title": "Our Trip to Lavender Bay",
+   "desc": "A class activity.",
+   "emoji": "✨",
+   "date": "2026-11-19",
+   "section": "Excursions",
+   "sectionEmoji": "📸",
+   "sectionTop": false
+  },
+  {
+   "repo": "fridayclasslavenderbayhunt",
+   "title": "The Lavender Bay Talk Hunt",
+   "desc": "A scavenger hunt.",
+   "emoji": "🧭",
+   "date": "2026-11-19",
+   "section": "More activities",
+   "sectionEmoji": "🌟",
+   "sectionTop": false
   }
  ],
- "updated": "2026-11-13T23:41:31+00:00"
+ "updated": "2026-11-19T22:16:13+00:00"
 }
