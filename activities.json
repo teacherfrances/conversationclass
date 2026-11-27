@@ -259,7 +259,27 @@
    "section": "First shifts",
    "sectionEmoji": "💼",
    "sectionTop": true
+  },
+  {
+   "repo": "fridayclasschristmaslunchplan",
+   "title": "The Silly Season Is Here! Secret Santa and Christmas Lunch",
+   "desc": "A class activity.",
+   "emoji": "✨",
+   "date": "2026-11-26",
+   "section": "More activities",
+   "sectionEmoji": "🌟",
+   "sectionTop": false
+  },
+  {
+   "repo": "fridayclassfirstshiftsdoublejeopardy",
+   "title": "The Shift Board: First shifts double Jeopardy",
+   "desc": "A team quiz game.",
+   "emoji": "🏆",
+   "date": "2026-11-26",
+   "section": "First shifts",
+   "sectionEmoji": "💼",
+   "sectionTop": true
   }
  ],
- "updated": "2026-11-22T00:27:09+00:00"
+ "updated": "2026-11-27T02:56:19+00:00"
 }
