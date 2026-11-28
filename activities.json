@@ -281,6 +281,16 @@
    "sectionTop": true
   },
   {
+   "repo": "fridayclassthesillyseasonchristmasboardgame",
+   "title": "The Silly Season Dash! Friday Conversation Class Christmas game",
+   "desc": "A class game.",
+   "emoji": "🎲",
+   "date": "2026-11-28",
+   "section": "The Silly Season",
+   "sectionEmoji": "🎄",
+   "sectionTop": true
+  },
+  {
    "repo": "fridayclassthesillyseasondeck",
    "title": "The silly season · Lesson 4",
    "desc": "The lesson introduction.",
@@ -299,7 +309,17 @@
    "section": "The Silly Season",
    "sectionEmoji": "🎄",
    "sectionTop": true
+  },
+  {
+   "repo": "fridayclassthesillyseasonfoundphone",
+   "title": "Thu's Phone",
+   "desc": "Unlock the phone.",
+   "emoji": "📱",
+   "date": "2026-11-28",
+   "section": "The Silly Season",
+   "sectionEmoji": "🎄",
+   "sectionTop": true
   }
  ],
- "updated": "2026-11-28T10:19:55+00:00"
+ "updated": "2026-11-28T10:25:14+00:00"
 }
