@@ -261,16 +261,6 @@
    "sectionTop": true
   },
   {
-   "repo": "fridayclasschristmaslunchplan",
-   "title": "The Silly Season Is Here! Secret Santa and Christmas Lunch",
-   "desc": "A class activity.",
-   "emoji": "✨",
-   "date": "2026-11-26",
-   "section": "More activities",
-   "sectionEmoji": "🌟",
-   "sectionTop": false
-  },
-  {
    "repo": "fridayclassfirstshiftsdoublejeopardy",
    "title": "The Shift Board: First shifts double Jeopardy",
    "desc": "A team quiz game.",
@@ -279,7 +269,37 @@
    "section": "First shifts",
    "sectionEmoji": "💼",
    "sectionTop": true
+  },
+  {
+   "repo": "fridayclassthesillyseasonchristmaslunchplan",
+   "title": "The Silly Season Is Here! Secret Santa and Christmas Lunch",
+   "desc": "A class activity.",
+   "emoji": "✨",
+   "date": "2026-11-26",
+   "section": "The Silly Season",
+   "sectionEmoji": "🎄",
+   "sectionTop": true
+  },
+  {
+   "repo": "fridayclassthesillyseasondeck",
+   "title": "The silly season · Lesson 4",
+   "desc": "The lesson introduction.",
+   "emoji": "🎬",
+   "date": "2026-11-28",
+   "section": "The Silly Season",
+   "sectionEmoji": "🎄",
+   "sectionTop": true
+  },
+  {
+   "repo": "fridayclassthesillyseasondoublejeopardy",
+   "title": "The Party Board · The silly season · Double Jeopardy",
+   "desc": "A team quiz game.",
+   "emoji": "🏆",
+   "date": "2026-11-28",
+   "section": "The Silly Season",
+   "sectionEmoji": "🎄",
+   "sectionTop": true
   }
  ],
- "updated": "2026-11-27T02:56:19+00:00"
+ "updated": "2026-11-28T10:19:55+00:00"
 }
